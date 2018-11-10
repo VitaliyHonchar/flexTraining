@@ -59,8 +59,8 @@ body {
       .wrapper .full_content header .left_content {
         display: flex;
         flex-direction: column;
-        flex-basis: 40%;
-        justify-content: center;
+        height: 330px;
+        justify-content: space-around;
         align-items: center; }
         .wrapper .full_content header .left_content .under_logo_text {
           max-height: 88px;
@@ -237,5 +237,3 @@ body {
         margin: 0 5px;
         background-color: #ffffff;
         border-radius: 4px; }
-
-/*# sourceMappingURL=styl.css.map */
